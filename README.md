@@ -14,4 +14,4 @@ This is the 9th project in the Udemy course _50 Projects in 50 Days_ by Brad Tra
 
 ## Other
 
-This project was created in January 2021 by Ben Drendel.
+This project was created in February 2021 by Ben Drendel.
